@@ -1,0 +1,17 @@
+//RESET
+@import "base/reset";
+
+//FOUNDATIONAL
+@import
+    "abstracts/variables",
+    "abstracts/mixins",
+    "abstracts/functions";
+    
+
+@import
+    "base/animations",
+    "base/typography",
+    "base/utilities";
+
+@import
+    "pages/home";
